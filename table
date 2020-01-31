@@ -1,0 +1,25 @@
+<html>
+<body>
+<table bgcolor=" light blue" border="1" cellspacing="5" bordercolor="green" cellpadding="20">
+<tr>
+<tr>
+<th></th>
+<th>apple</th>
+<th>orange</th>
+<th>graphs</th>
+</tr>
+<tr>
+<th>ramesh</th>
+<td>o</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th>nasib</th>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</table>
+</body>
+</html>
