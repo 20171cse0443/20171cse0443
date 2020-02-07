@@ -1,0 +1,23 @@
+<html>
+<body>
+<h1><CENTER>TABLE IS CREATED USING COLSPAN AND ROWSPAM</CENTER></H1>
+<CENTER><table bgcolor=" light blue" border="1" cellspacing="5" bordercolor="green" cellpadding="20">
+<tr>
+<th>column 1</th>
+<th>column 2</th>
+<th>column 3</th>
+</tr>
+<tr>
+<td rowspan="2">row1 cell1</td>
+<td>row1cell2</td>
+<td>row1cell3</td>
+</tr> 
+<tr>
+<td>row2cell2</td>
+<td>row2cell3</td>
+</tr>
+<tr>
+<td colspan=3>row3cell3</td>
+</table></CENTER>
+</body>
+</html>
