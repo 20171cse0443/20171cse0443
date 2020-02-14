@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>
+setting font size</title>
+<body>
+<font size="1">font size="1"</font><br/>
+<font size="2">font size="2"</font><br/>
+<font size="3">font size="3"</font><br/>
+<font size="4">font size="4"</font><br/>
+<font size="5">font size="5"</font><br/>
+<font size="6">font size="6"</font><br/>
+<font size="7">font size="7"</font><br/>
+<h6>font size="1"</h6>
+<h5>font size="1"</h5>
+<h4>font size="1"</h4>
+<h3>font size="1"</h3>
+<h2>font size="1"</h2>
+<h1>font size="1"</h1>
+</body>
+</html>
