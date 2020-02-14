@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>
+style color
+</title>
+</head>
+</body>
+<h1 style="color:blue;">this is heading</h1>
+<p style="color:red;">this is paragraph</p>
+<h1 style="font-family-verdana;">this is heading</h1>
+<p style="font-family:courier;">this is paragraph</p>
+<h1 style="font-size:300%;">this is heading</h1>
+<p style="font-size:160%;">this is paragraph</p>
+<h1 style="text-align:center;">centered</h1>
+<p style="text-align:center;">centered paragraph</p>
+<p style="font-size:160%;">tag welocme</p>
+<p style="font-size:160%;">tag</p>
+</body>
+</html>
