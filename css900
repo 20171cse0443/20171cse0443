@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+p.dotted{border-style:dotted;
+border-color:blue;
+border-width:20px}
+p.dashed{border-style:dashed;
+color:green;}
+p.solid{border-style:solid;
+color:yellow;}
+p.double{border-style:double;}
+p.groove{border-style:groove;}
+p.ridge{border-style:ridge;}
+p.inset{border-style:inset;}
+p.outset{border-style:outset;}
+p.none{border-style:none;}
+p.hidden{border-style:hidden;}
+</style>
+<body>
+<p class="dotted" text-font:"20px">this is...</p>
+<p class="dashed">this is...</p>
+<p class="solid">this is...</p>
+<p class="double">this is...</p>
+<p class="groove">this is...</p>
+<p class="ridge">this is...</p>
+<p class="inset">this is...</p>
+<p class="outset">this is...</p>
+<p class="none">this is...</p>
+<p class="hidden">this is...</p>
+</body>
+</head>
+</html>
+
